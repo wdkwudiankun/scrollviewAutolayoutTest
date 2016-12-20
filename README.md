@@ -10,4 +10,4 @@ UIScrollView  + Masonry 自动化布局测试
 
 # 本仓库的创建感谢各位大神的代码提示
 - [Masonry](https://github.com/SnapKit/Masonry)仓库作者[SnapKit](https://github.com/SnapKit)
-- [标哥的公众号](http://mp.weixin.qq.com/s?__biz=MzIzMzA4NjA5Mw==&mid=400162704&idx=1&sn=ba3f4f9b8f0a1fbb9d88b559bde1cb33#rd)和标哥的相关[demo](https://github.com/CoderJackyHuang/ScrollViewAutolayoutDemo)
+- [标哥的公众号](http://mp.weixin.qq.com/s?__biz=MzIzMzA4NjA5Mw==&mid=400162704&idx=1&sn=ba3f4f9b8f0a1fbb9d88b559bde1cb33#rd)和[标哥](https://github.com/CoderJackyHuang)的相关[demo](https://github.com/CoderJackyHuang/ScrollViewAutolayoutDemo)
